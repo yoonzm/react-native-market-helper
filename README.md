@@ -1,5 +1,6 @@
 # react-native-market-helper
 
+[原仓库](https://github.com/simplepeng/MarketHelper)
 跳转应用商店的帮助类，对应系统跳转对应的应用商店
 
 ## Installation
@@ -18,10 +19,6 @@ import { open } from "react-native-market-helper";
 const appStoreId = 1397766350;
 open(appStoreId);
 ```
-
-## Contributing
-
-See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the repository and the development workflow.
 
 ## License
 
